@@ -1,3 +1,8 @@
+Completed 18Oct2017
+
+# PROJECT
+Develop an application that provides a list of items within a variety of categories as well as provide a user registration and authentication system. Registered users will have the ability to post, edit and delete their own items.
+
 # OAuth2.0
 Starter Code for Auth&amp;Auth course
 # Installing the Vagrant VM for ud330 - Authentication & Authorization
